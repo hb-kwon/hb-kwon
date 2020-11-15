@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![hkwon's 42 stats](https://badge42.herokuapp.com/api/stats/hkwon)](https://github.com/JaeSeoKim/badge42)
+
+
 <!--
 **hb-kwon/hb-kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
